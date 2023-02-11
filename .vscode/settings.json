@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    "vetur.validation.template": false,
+"vetur.validation.script": false,
+"vetur.validation.style": false,
+}
+

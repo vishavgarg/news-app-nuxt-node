@@ -1,0 +1,10 @@
+api/node_modules/
+api/.env
+ui/node_modules/
+ui/*.log*
+ui/.nuxt
+ui/.nitro
+ui/.cache
+ui/.output
+ui/.env
+ui/dist
